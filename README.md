@@ -23,6 +23,7 @@ Este projeto utiliza redes neurais LSTM (Long Short-Term Memory) para prever pre
    
 Clone o repositório:
 git clone https://github.com/Fabio4breu/lstm-previsao-acoes.git
+
 cd lstm-previsao-acoes
 
 Crie e ative um ambiente virtual:
