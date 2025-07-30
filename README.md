@@ -19,6 +19,27 @@ Este projeto utiliza redes neurais LSTM (Long Short-Term Memory) para prever pre
 5. Avalia o modelo com RMSE e MAE.
 6. Exibe a tendência e gera um gráfico de previsão vs. preço real.
 
+ ## 🛠️ Como executar
+   
+Clone o repositório:
+git clone https://github.com/Fabio4breu/lstm-previsao-acoes.git
+cd lstm-previsao-acoes
+
+Crie e ative um ambiente virtual:
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+
+Instale as dependências:
+pip install -r requirements.txt
+
+Execute:
+python main.py
+
+📝 Observações
+
+Os dados são públicos e fornecidos via Yahoo Finance.
+
 ## 🧠 Exemplo de saída
 
 ```bash
