@@ -22,6 +22,7 @@ Este projeto utiliza redes neurais LSTM (Long Short-Term Memory) para prever pre
  ## 🛠️ Como executar
    
 Clone o repositório:
+
 git clone https://github.com/Fabio4breu/lstm-previsao-acoes.git
 
 cd lstm-previsao-acoes
@@ -32,9 +33,11 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
 Instale as dependências:
+
 pip install -r requirements.txt
 
 Execute:
+
 python main.py
 
 📝 Observações
