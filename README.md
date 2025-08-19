@@ -54,10 +54,15 @@ Clique em Analisar para gerar previsões e gráficos.
 
 lstm-previsao-acoes/
 │
+
 ├─ main.py             # Script principal com LSTM e Streamlit
+
 ├─ requirements.txt    # Dependências do projeto
+
 ├─ .venv/              # Ambiente virtual (não versionar)
+
 └─ README.md           # Documentação
+
 ⚠️ Nota: Não é necessário versionar .venv, apenas requirements.txt.
 
 ⚙️ Observações
