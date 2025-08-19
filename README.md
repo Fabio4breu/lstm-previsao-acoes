@@ -38,12 +38,15 @@ Crie um ambiente virtual (opcional, mas recomendado):
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
 .venv\Scripts\activate     # Windows
+
 Instale as dependências:
 
 pip install -r requirements.txt
+
 ▶️ Como executar
 
 streamlit run main.py
+
 A interface abrirá no navegador.
 
 Selecione uma ação ou use Todas / Ranking.
