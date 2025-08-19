@@ -66,9 +66,13 @@ Editar
 lstm-previsao-acoes/
 │
 ├─ main.py             # Script principal com LSTM e interface Streamlit
+
 ├─ requirements.txt    # Dependências do projeto
+
 ├─ .venv/              # Ambiente virtual (não é necessário versionar)
+
 └─ README.md           # Documentação
+
 Nota: Recomenda-se não versionar o diretório .venv, apenas requirements.txt.
 
 🔹 Observações
@@ -176,9 +180,13 @@ Editar
 lstm-previsao-acoes/
 │
 ├─ main.py             # Script principal com LSTM e Streamlit
+
 ├─ requirements.txt    # Dependências do projeto
+
 ├─ .venv/              # Ambiente virtual (não versionar)
+
 └─ README.md           # Documentação
+
 ⚠️ Nota: Não é necessário versionar .venv, apenas requirements.txt.
 
 ⚙️ Observações
