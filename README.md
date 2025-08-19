@@ -63,8 +63,6 @@ lstm-previsao-acoes/
 ⚙️ Observações
 O modelo é treinado com 5 épocas para agilizar a execução. Aumente para resultados mais precisos.
 
-As previsões são educacionais e não garantem retorno financeiro.
-
 GitHub: Fabio4breu
 
 Projeto criado como estudo e prática de LSTM e Streamlit.
